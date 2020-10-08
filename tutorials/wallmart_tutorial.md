@@ -21,6 +21,6 @@ OR
 
 - Right click file in explorer panel and click `Preview Swagger`
 
-Now click on the URL Below to access the Swagger.
+To access the Swagger URL in your broswer, copy the below URL and update <PORT> in the URL with the PORT assigned in the pop up window on. 
 
-URL :  http://##DNS.ip##:9000
+URL :  http://##DNS.ip##:<PORT>
